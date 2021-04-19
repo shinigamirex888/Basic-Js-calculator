@@ -23,6 +23,7 @@ button:hover{
     width: 100%;
     height: 23%;
     border: 2px solid burlywood;
+    background-color: burlywood;
     box-sizing: border-box;
     padding: 7px;
     overflow: hidden;
@@ -31,6 +32,7 @@ button:hover{
 .output{
     display: inline-block;
     position: absolute;
+    color: black;
     right: 5px;
     bottom: 40px;
     margin: 0px;
@@ -39,8 +41,8 @@ button:hover{
     overflow-wrap: break-word;
     text-align: right;
     height: auto;
-    font-size: 26px;
-    font-weight: bolder;
+    font-size: 35px;
+    font-weight: bold;
 }
 .large{
     background-color: brown;
